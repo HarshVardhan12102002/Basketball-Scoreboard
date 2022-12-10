@@ -1,5 +1,3 @@
-const { checkboxClasses } = require("@mui/material")
-
 let scorenumH=document.getElementById("scorenumH")
 current_score_HOME=0
 
