@@ -1,0 +1,91 @@
+@import url('https://cdn.jsdelivr.net/gh/mustafazeydani/Fonts/CursedTimerULiL/CursedTimerULiL.css');
+
+body {
+    margin: 0;
+    background: #1B244A;
+    text-align: center;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 110px;
+    color: #F94F6D;
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL';
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 34px;
+    width: 34px;
+    margin-left: 5px;
+    color:aliceblue;
+    
+    font-family: 'Cursed Timer ULiL';
+}
+.button1 {
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 34px;
+    width: 34px;
+    
+    color:aliceblue;
+    font-family: 'Cursed Timer ULiL';
+}
+.reset {
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 34px;
+    width: 80px;
+    color:aliceblue;
+    font-family: 'Cursed Timer ULiL';
+}
+
+.heading{
+    color: white;
+    font-family:verdana,sans-serif;
+}
+.h2{
+    padding-left: 10px;
+    margin-top: 8px;
+    font-family:sans-serif,verdana;
+    color:whitesmoke;
+    display:inline;
+    float:left;
+}
+.h3{
+    padding-right: 10px;
+    margin-top: 8px;
+    font-family:sans-serif,verdana;
+    color:whitesmoke;
+    display:inline;
+    float:right;
+}
+.result{
+
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 40px;
+    width: 280px;
+    
+    color:aliceblue;
+}
